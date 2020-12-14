@@ -2,13 +2,13 @@
 ## 使用说明
 1. 推荐使用overleaf；
 2. 本地latex运行：下载本模板文件（使用 ```git``` 命令或在
-[这里下载](https://github.com/K-JW/CCNU_BeamerTemplate/releases)）；
+[这里下载](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate-）；
 3. 编写 ```.tex``` 文件；
 4. 使用 ```XeLaTeX``` 编译（当前仅支持 ```XeLaTeX``` 方式编译）。
 
 ## 截图展示
-![](https://github.com/K-JW/CCNU_BeamerTemplate/blob/master/figures/page_01.jpg)
-![](https://github.com/K-JW/CCNU_BeamerTemplate/blob/master/figures/page_03.jpg)
+![](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate-/blob/main/figures/page_01.jpg)
+![](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate-/blob/main/figures/page_03.jpg)
 
 ## 更新日志
 * 2020-12-12 :
