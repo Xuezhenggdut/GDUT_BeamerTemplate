@@ -9,6 +9,7 @@
 ![](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate-/blob/main/figures/page_01.jpg)
 ![](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate-/blob/main/figures/page_03.jpg)
 ![](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate-/blob/main/figures/page_10.jpg)
+
 ## 更新日志
 * 2020-12-12 :
   * v1.0 
