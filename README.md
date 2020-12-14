@@ -1,8 +1,7 @@
 # 广东工业大学幻灯片模板
 ## 使用说明
 1. 推荐使用overleaf；
-2. 本地latex运行：下载本模板文件（使用 ```git``` 命令或在
-[这里下载](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate-）；
+2. 本地latex运行：下载本模板文件；
 3. 编写 ```.tex``` 文件；
 4. 使用 ```XeLaTeX``` 编译（当前仅支持 ```XeLaTeX``` 方式编译）。
 
