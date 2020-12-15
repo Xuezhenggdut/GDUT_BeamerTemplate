@@ -7,7 +7,7 @@
 
 ## 截图展示
 ![](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate-/blob/main/figures/page_01.jpg)
-![](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate-/blob/main/figures/page_03.jpg)
+
 
 ## 更新日志
 * 2020-12-12 :
