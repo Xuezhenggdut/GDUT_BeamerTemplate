@@ -6,7 +6,9 @@
 4. 使用 ```XeLaTeX``` 编译（当前仅支持 ```XeLaTeX``` 方式编译）。
 
 ## 截图展示
-![](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate-/blob/main/figures/page_01.jpg)
+![](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate/blob/main/figures/page_01.jpg)
+![](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate/blob/main/figures/page_03.jpg)
+![](https://github.com/Xuezhenggdut/GDUT_BeamerTemplate/blob/main/figures/page_10.jpg)
 
 
 ## 更新日志
